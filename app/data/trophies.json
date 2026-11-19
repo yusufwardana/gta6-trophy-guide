@@ -2,391 +2,780 @@
  "game": "Grand Theft Auto VI",
  "platform": "PlayStation 5",
  "list": "the official 55 trophies, 2026-11-18",
+ "notes": "Names, descriptions and grades are the official list as published on PS5 and tracked on PSNProfiles and Exophase (reported by Push Square, 18 Nov 2026). 28 trophies are hidden: 12 story trophies and 16 hidden side trophies. Exactly one trophy is possibly missable: Positive Mental Attitude. Guides are written in our own words; counts and methods are taken from the cited guide pages, and anything the guides have not confirmed yet is marked unconfirmed in the guide itself.",
  "trophies": [
   {
    "id": 1,
    "name": "Vice Got a Price!",
    "description": "Congratulations! You're a Leonida Legend.",
    "grade": "platinum",
-   "guide": "Earn the other 54 trophies."
+   "hidden": false,
+   "kind": "platinum",
+   "missable": false,
+   "guide": "There is no shortcut to this one: it pops the moment the other 54 trophies are all yours. Treat it as a progress meter, not a goal of its own. Finish the story first, then work the 100% checklist for A Long Road, and this lands last. Early guides put the platinum at around 200 hours, most of it in the 100% cleanup.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 2,
    "name": "Just Like Paradise",
    "description": "Complete Gone Fishing.",
    "grade": "bronze",
-   "guide": "Finish the opening mission, Gone Fishing."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "guide": "Play the opening mission, Gone Fishing, to the end. It is the first mission of Chapter 1 and it unlocks automatically as the story starts, so there is nothing to prepare and nothing to miss — just follow the mission prompts. It is one of the 12 hidden story trophies, so this guide keeps it masked until you earn it.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 3,
    "name": "Paradise Lost",
    "description": "Complete Chapter 1.",
    "grade": "bronze",
-   "guide": "Finish Chapter 1."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "guide": "Finish Chapter 1. The trophy pops a little after the chapter itself ends — the game awards it once you clear the first mission or two of Chapter 2. Like every story trophy it unlocks automatically and cannot be missed, so just keep playing the campaign.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 4,
    "name": "T**s Ass Drug Money",
    "description": "Complete Chapter 2.",
    "grade": "bronze",
-   "guide": "Finish Chapter 2."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "guide": "Finish Chapter 2. The chapter trophy pops slightly late, once you are a mission or two into Chapter 3. Story trophies cannot be missed, so there is nothing to protect here — play the missions in order and it comes to you.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 5,
    "name": "Vice City, Baby!",
    "description": "Complete Chapter 3.",
    "grade": "bronze",
-   "guide": "Finish Chapter 3."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "guide": "Finish Chapter 3. As with the other chapter trophies, expect it to pop a little after the chapter ends, once you have cleared the first mission or two of Chapter 4. It unlocks automatically from story progress alone.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 6,
    "name": "Top Of The World, Ma",
    "description": "Complete Chapter 4.",
    "grade": "bronze",
-   "guide": "Finish Chapter 4."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "guide": "Finish Chapter 4. This is the last chapter trophy before the finale, and it pops the same way as the others — a mission or two into the next chapter. After it, only the final mission stands between you and the story gold.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 7,
    "name": "You Gotta Know When to Get Off",
    "description": "Complete the final mission.",
    "grade": "gold",
-   "guide": "Finish the final mission (gold)."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "guide": "Finish the final mission of the story, the last mission of Chapter 5. It is the only gold story trophy and it pops when the credits roll. After it, free roam continues, so everything else on the list can still be done — nothing is locked behind the ending.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 8,
    "name": "Trust",
    "description": "Complete Breakfast Run.",
    "grade": "bronze",
-   "guide": "Finish the mission Breakfast Run."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "guide": "Complete the mission Breakfast Run. It is a named story mission in Chapter 2 — play the story until it appears, then finish it. Like all story trophies it unlocks automatically and cannot be missed.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 9,
    "name": "Break the Bank",
    "description": "Complete The Cartel Heist.",
    "grade": "bronze",
-   "guide": "Finish the mission The Cartel Heist."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "guide": "Complete the mission The Cartel Heist, a named story mission in Chapter 3. It appears as part of the campaign, so keep playing the story and take the mission when it is offered. Story trophies cannot be missed.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 10,
    "name": "Family Matters",
    "description": "Complete Child's Play.",
    "grade": "bronze",
-   "guide": "Finish the mission Child's Play."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "guide": "Complete the mission Child's Play, a named story mission in Chapter 3. Follow the campaign until it appears and finish it. It is one of the six named-mission story trophies, and none of them can be missed.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 11,
    "name": "DWNFALL",
    "description": "Complete Headliners.",
    "grade": "bronze",
-   "guide": "Finish the mission Headliners."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "guide": "Complete the mission Headliners, a named story mission in Chapter 4. It comes up in the campaign on its own, so play the story and finish the mission when it arrives. Story trophies unlock automatically and cannot be missed.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 12,
    "name": "Hi-Jacked",
    "description": "Complete VCIA Takedown.",
    "grade": "bronze",
-   "guide": "Finish the mission VCIA Takedown."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "guide": "Complete the mission VCIA Takedown, a named story mission in Chapter 4 set around Vice City International Airport. It appears in the campaign by itself — finish it and the trophy follows. It cannot be missed.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 13,
    "name": "Snow Storm",
    "description": "Complete Operation Savage Glory.",
    "grade": "bronze",
-   "guide": "Finish the mission Operation Savage Glory."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "guide": "Complete the mission Operation Savage Glory, a named story mission in Chapter 4. Play the campaign until it is offered, then finish it. Like every story trophy it unlocks automatically and cannot be missed.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 14,
    "name": "A Long Road",
    "description": "Attain 100% Completion.",
    "grade": "gold",
-   "guide": "Reach 100% completion (gold)."
+   "hidden": false,
+   "kind": "side",
+   "missable": false,
+   "guide": "Reach 100% on the in-game completion checklist, which appears after the story under Progress, then Stats, then 100% Completion. The checklist is lenient — roughly 60% true completion: 70 of 80 challenges, 15 of 18 meditation spots and 300 stunts, while robberies, underwater discoveries, shooting ranges, drone races and Bret's quests need everything. Progress made during the story already counts, so work it after the campaign. This is the last big gate before the platinum.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 15,
    "name": "Cunning Stunts",
    "description": "Complete 250 Stunts.",
    "grade": "silver",
-   "guide": "Pull off 250 stunts (silver)."
+   "hidden": false,
+   "kind": "activity",
+   "missable": false,
+   "guide": "Land 250 stunts of any kind — stunt jumps, flights under bridges, knife flights and base jumps all count, and there are 397 in the game, so you have room to pick the easy ones. The 100% checklist needs 300, so keep going past 250 if you are chasing A Long Road. A fast bike or a plane makes bridge flights and jumps much easier.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 16,
    "name": "Master of None",
    "description": "Try each type of activity once.",
    "grade": "bronze",
-   "guide": "Try all 9 activity types once."
+   "hidden": false,
+   "kind": "activity",
+   "missable": false,
+   "guide": "Try each of the 9 activity types once: fishing, hunting, golf, shooting ranges, pool, basketball, a video game, a race and a stunt. You only need one try at each, not a win — so the fastest route is one round of pool, one golf hole, one fishing cast, and so on. The activity icons on the map show you where each type lives.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 17,
    "name": "The Shootist",
    "description": "Earn a gold medal in all Shooting Range challenges.",
    "grade": "silver",
-   "guide": "Gold all 42 Shooting Range challenges (silver)."
+   "hidden": false,
+   "kind": "activity",
+   "missable": false,
+   "guide": "Earn a gold medal in every one of the 42 Shooting Range challenges. There are several ranges around Leonida, each with its own set of challenges. Gold needs accuracy and speed, so learn one range's targets first, then repeat the pattern at the others. No challenge is missable — the ranges stay open after the story.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 18,
    "name": "Top Fun",
    "description": "Win a Top Fun Drone Race at every location.",
    "grade": "bronze",
-   "guide": "Win a Top Fun drone race at all 14 locations."
-  },
+   "hidden": false,
+   "kind": "activity",
+   "missable": false,
+   "guide": "Win a Top Fun drone race at each of the 14 locations. Each venue has its own course, and you only need one win per location, not every race the venue offers. Drone races are short, so a lost race costs a minute to retry.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
+  }
+,
   {
    "id": 19,
    "name": "Earn Cash, Not Kudos",
    "description": "Win 20 different races.",
    "grade": "bronze",
-   "guide": "Win 20 different races."
+   "hidden": false,
+   "kind": "activity",
+   "missable": false,
+   "guide": "Win 20 different races. The same race won twice counts once, so work through the map's race list instead of farming one favourite. Races unlock as you explore, and cars, bikes and boats each have their own events.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 20,
    "name": "Baited My Tackle",
    "description": "Beat Cal in a fishing challenge.",
    "grade": "bronze",
-   "guide": "Beat Cal in a fishing challenge."
+   "hidden": false,
+   "kind": "activity",
+   "missable": false,
+   "guide": "Beat Cal in a fishing challenge. You meet Cal in Chapter 1, and after that he texts you a fishing spot. Go to the spot, take the challenge and out-fish him. Fishing challenges are scored on the catch, not on speed, so fish carefully rather than fast.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 21,
    "name": "Stick Fiddler",
    "description": "Complete an arcade game.",
    "grade": "bronze",
-   "guide": "Finish one arcade game."
+   "hidden": false,
+   "kind": "activity",
+   "missable": false,
+   "guide": "Finish any one in-game video game from start to finish. Three games run on the TV at home and a fourth sits on arcade machines around Leonida, so pick whichever you like — you only need to complete one. These are short arcade games, not full titles.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 22,
    "name": "Road to Rehabilitation",
    "description": "Complete the final mission for Andy.",
    "grade": "bronze",
-   "guide": "Finish Andy's last mission."
+   "hidden": true,
+   "kind": "side",
+   "missable": false,
+   "guide": "Finish Andy's side strand. It starts with a phone call in Chapter 3 and only Lucia can run it, so answer the call as Lucia and follow the strand to its final mission. Side strands stay available after the story, so there is no rush — but do not ignore the call.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 23,
    "name": "This Was No Boat Accident",
    "description": "Complete the final mission for Kenton.",
    "grade": "bronze",
-   "guide": "Finish Kenton's last mission."
+   "hidden": true,
+   "kind": "side",
+   "missable": false,
+   "guide": "Finish Kenton's treasure diving strand — 7 shipwrecks in total. Kenton goes quiet after Chapter 1 and returns later in the story, so if he disappears, keep playing; the strand is not missable. Dive each wreck site and bring the treasure up.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 24,
    "name": "The Lone Rider",
    "description": "Complete the final mission for Billy.",
    "grade": "bronze",
-   "guide": "Finish Billy's last mission."
+   "hidden": true,
+   "kind": "side",
+   "missable": false,
+   "guide": "Finish Billy's strand at the mud club in Kelly County. It opens in Chapter 2. Ride out to the club, take Billy's missions as they appear, and finish the strand's final mission.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 25,
    "name": "Strangers & Freaks",
    "description": "Complete 8 mission strands for strangers across the state of Leonida.",
    "grade": "silver",
-   "guide": "Finish 8 stranger strands (silver)."
+   "hidden": false,
+   "kind": "side",
+   "missable": false,
+   "guide": "Complete 8 mission strands for strangers across Leonida. Stranger missions appear as question marks on the map, and only some side questlines count toward the 8, so keep taking them and check your count. They can all be done after the story, so finish the campaign first and sweep them up in free roam.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 26,
    "name": "Supply & Demand",
    "description": "Complete the final mission for Randy.",
    "grade": "bronze",
-   "guide": "Finish Randy's last mission."
+   "hidden": true,
+   "kind": "side",
+   "missable": false,
+   "guide": "Finish Randy's strand: a wish list of 16 sports cars. It opens in Chapter 3. Find the cars on Randy's list, steal or buy them, and deliver each one. Rare spawns take the longest, so start the list early and grab a target whenever you see one.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 27,
    "name": "Spin On This!",
    "description": "Complete the final mission for Tyrone.",
    "grade": "bronze",
-   "guide": "Finish Tyrone's last mission."
+   "hidden": true,
+   "kind": "side",
+   "missable": false,
+   "guide": "Finish Tyrone's strand by shutting down his labs in Vice City. Jason only, from Chapter 3. Take the lab missions as they come and finish the strand's last job.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 28,
    "name": "Positive Mental Attitude",
    "description": "Meditate at every spot across Leonida.",
    "grade": "bronze",
-   "guide": "Meditate at all 18 spots."
+   "hidden": false,
+   "kind": "activity",
+   "missable": true,
+   "missableNote": "Possibly missable in Chapter 1: one morning at Jason's house, Lucia says she is going to meditate and walks out to the balcony. Follow her and accept the optional quest — that meditation may count toward the total even though it is not marked as a spot, and it is gone after Chapter 1. Do it when it appears. The other 18 spots are marked and can be visited any time.",
+   "guide": "Meditate at every meditation spot across Leonida — 18 spots. POSSIBLE MISSABLE: during Chapter 1, one morning at Jason's house, Lucia says she is going to meditate and walks out to the balcony. Follow her and accept the optional quest. That meditation may count toward the total even though it is not marked as a spot, and it is gone after Chapter 1 — so do it when it appears. It takes a minute and removes the risk. The other 18 spots are marked on the map and can be visited any time.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 29,
    "name": "Fair Game",
    "description": "Hunt a unique animal for Bret.",
    "grade": "bronze",
-   "guide": "Hunt the unique animal for Bret."
+   "hidden": true,
+   "kind": "side",
+   "missable": false,
+   "guide": "Hunt a unique animal for Bret. Jason only, from Chapter 2. Which animal triggers it is not yet confirmed by the guide writers, so the safe route is to clear all 15 of Bret's target decks — the 100% checklist needs them anyway, and that should cover the trophy. Use the binoculars to study animals first; hunting comes after.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 30,
    "name": "Don't Touch My Deck",
    "description": "Complete 3 Collectible Card sets.",
    "grade": "silver",
-   "guide": "Complete 3 collectible card sets (silver)."
+   "hidden": false,
+   "kind": "collectible",
+   "missable": false,
+   "guide": "Complete 3 Collectible Card sets out of the 18 in the game. Cards are scattered across Leonida — shops, interiors and open-world spots. You only need 3 full sets, so chase the sets whose cards you already have most of, and trade duplicates if the game allows it.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 31,
    "name": "You WAiNKer!",
    "description": "WAiNK It at 100 locations.",
    "grade": "silver",
-   "guide": "WAiNK It at 100 locations (silver)."
+   "hidden": false,
+   "kind": "collectible",
+   "missable": false,
+   "guide": "Use the WAiNK phone app at 100 locations. Landmarks, curiosities and sculptures all count — open WAiNK, frame the subject, and scan. Work it into exploration: scan everything that looks notable as you cross the map and the count climbs on its own.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 32,
    "name": "One Last Thing",
    "description": "Complete 50 Challenges.",
    "grade": "bronze",
-   "guide": "Finish 50 challenges."
+   "hidden": false,
+   "kind": "activity",
+   "missable": false,
+   "guide": "Complete 50 of the 80 challenges. Challenges are the map's open-world tasks — stunts, races, robberies and more. The 100% checklist needs 70, so this trophy pops on the way to A Long Road. Turn on progress notifications in the UI settings to see what counts.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 33,
    "name": "Hot Together",
    "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
    "grade": "bronze",
-   "guide": "Lose a 4-star wanted level with your partner."
+   "hidden": false,
+   "kind": "crime",
+   "missable": false,
+   "guide": "Lose a 4-star Wanted Level while your partner is with you, then escape. It becomes possible once both characters can roam together in Chapter 2. The easy route is a bank job — they hand you 4 stars anyway — then break line of sight and hide until the wanted level clears.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 34,
    "name": "Retail Therapy",
    "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
    "grade": "bronze",
-   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
+   "hidden": false,
+   "kind": "crime",
+   "missable": false,
+   "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level. Chain the robberies quickly and keep the cops on you the whole time; the trophy pops about 30 seconds after the third shop. Small shops on quiet streets are easier to chain than busy ones.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 35,
    "name": "Whip It Good",
    "description": "Discover 100 vehicles.",
    "grade": "bronze",
-   "guide": "Discover 100 vehicles."
+   "hidden": false,
+   "kind": "exploration",
+   "missable": false,
+   "guide": "Discover 100 vehicles. Scanning a vehicle with the WAiNK app is enough — you do not have to drive it. Scan every new vehicle you pass; the 100% checklist needs 200 of the 277 base models, so this comes early on the road to A Long Road.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 36,
    "name": "Gunslinger",
    "description": "Take down 5 enemies in a single use of Combat Focus.",
    "grade": "bronze",
-   "guide": "Down 5 enemies in one Combat Focus."
+   "hidden": false,
+   "kind": "crime",
+   "missable": false,
+   "guide": "Take down 5 enemies in a single use of Combat Focus. Gang members count; soldiers, police and civilians seem not to, so pick a gang fight for this one. Wait until several gang members are grouped together, trigger Combat Focus, and chain the five takedowns inside one window.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 37,
    "name": "Catch Me If You Can",
    "description": "Make an unscheduled departure at VCIA.",
    "grade": "bronze",
-   "guide": "Leave VCIA in an unscheduled way."
-  },
+   "hidden": true,
+   "kind": "crime",
+   "missable": false,
+   "guide": "Make an unscheduled departure at Vice City International Airport: steal a passenger jet docked at a gate and fly about 1 km away. Get to the plane on foot, board it, take off and keep flying until the trophy pops — you do not need to land anywhere.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
+  }
+,
   {
    "id": 38,
    "name": "Challenging Tank",
    "description": "Kinda hot in these Rhinos.",
    "grade": "bronze",
-   "guide": "Deal with Rhinos (tanks)."
+   "hidden": true,
+   "kind": "crime",
+   "missable": false,
+   "guide": "Steal a military tank. The guide writers found tanks at Mile Zero Air Station in the southwest of the map. Expect heavy resistance getting in and out — clear the area first, then drive the Rhino away from the base.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 39,
    "name": "Sneakthief",
    "description": "Rob a jewelry store without being detected.",
    "grade": "bronze",
-   "guide": "Rob a jewelry store without being seen."
+   "hidden": false,
+   "kind": "crime",
+   "missable": false,
+   "guide": "Rob a jewelry store without being detected. You need the Snap Gun, which a Chapter 3 main mission gives you, so this opens mid-story. Plan the entry, cut the alarms with the Snap Gun, and leave before anyone raises one.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 40,
    "name": "Maximum Withdrawal",
    "description": "Rob 5 Bank Vaults and escape.",
    "grade": "silver",
-   "guide": "Rob 5 bank vaults and escape (silver)."
+   "hidden": false,
+   "kind": "crime",
+   "missable": false,
+   "guide": "Rob 5 bank vaults and escape. Bank jobs open through an optional mission in Chapter 4, and there are 8 vaults in total — the 100% checklist needs all 8, so plan to hit them all. Each vault is its own job; escape cleanly after each one and the count climbs.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 41,
    "name": "A Classic Blitz Play",
    "description": "Rob an Armored Truck and escape.",
    "grade": "bronze",
-   "guide": "Rob an armored truck and escape."
+   "hidden": false,
+   "kind": "crime",
+   "missable": false,
+   "guide": "Rob an Armored Truck and escape. The first bank job counts toward this, or you can hit a truck earlier: blow open its back door with a sticky bomb, grab the cash, and lose the pursuit. Trucks run set routes, so wait for one on a quiet road.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 42,
    "name": "The Goodtime State",
    "description": "Explore all of Leonida.",
    "grade": "bronze",
-   "guide": "Explore all 52 areas of Leonida."
+   "hidden": false,
+   "kind": "exploration",
+   "missable": false,
+   "guide": "Explore all of Leonida — clear the fog from the entire map. Driving the roads gets you most of it, but the fastest way to finish is a plane: fly a grid over the state and watch the fog lift. The map screen shows what is still covered.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 43,
    "name": "Pest Control",
    "description": "Rob an Illegal Operation belonging to each gang.",
    "grade": "bronze",
-   "guide": "Rob one illegal operation of each of the 9 gangs."
+   "hidden": false,
+   "kind": "crime",
+   "missable": false,
+   "guide": "Rob an Illegal Operation belonging to each gang — 9 gangs in total. One operation per gang is enough for the trophy; the 100% checklist needs all 39 operations, so keep the list and work through the rest later. Operations show on the map once you have found them.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 44,
    "name": "In The Beginning…",
    "description": "Enjoy a cocktail with a view on Ocean Beach.",
    "grade": "bronze",
-   "guide": "Have a cocktail with a view on Ocean Beach."
+   "hidden": true,
+   "kind": "activity",
+   "missable": false,
+   "guide": "Enjoy a cocktail with a view on Ocean Beach. The exact method is not yet confirmed by the guide writers — the description points to a beachfront bar on Ocean Beach. Go there, order a cocktail, and enjoy the view; if it does not pop, it is likely tied to a specific seat or time of day, and the guides will confirm it. (Unconfirmed — exact trigger not yet verified.)",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 45,
    "name": "Capital Offense",
    "description": "Smash your way out of a vehicle showroom in classic style.",
    "grade": "bronze",
-   "guide": "Smash out of a vehicle showroom in style."
+   "hidden": true,
+   "kind": "crime",
+   "missable": false,
+   "guide": "Smash your way out of a vehicle showroom in classic style. The exact method is not yet confirmed by the guide writers — the description points to driving a car through a showroom window. Pick a showroom, get a car inside or line one up outside, and drive out through the glass. (Unconfirmed — exact trigger not yet verified.)",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 46,
    "name": "Let’s Go Bowling",
    "description": "Follow-through at the Kolt & Associates' bowling alley.",
    "grade": "bronze",
-   "guide": "Play bowling at the Kolt & Associates alley."
+   "hidden": true,
+   "kind": "activity",
+   "missable": false,
+   "guide": "Follow-through at the Kolt & Associates' bowling alley: take all 3 key valuables from the Kingpin Bowling gang operation in Port Gellhorn. The robbery comes back later if you miss anything, so it is not missable — finish the operation and collect all three valuables.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 47,
    "name": "Personal Best",
    "description": "A partnership with mass appeal.",
    "grade": "bronze",
-   "guide": "A partnership moment with mass appeal."
+   "hidden": true,
+   "kind": "activity",
+   "missable": false,
+   "guide": "A partnership with mass appeal: max out strength on both Jason and Lucia. Work out together and both make progress — gyms and outdoor equipment both count. It is a slow grind, so fold workouts into your routine between missions.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 48,
    "name": "Actions Speak Louder",
    "description": "Choices made (for better or worse).",
    "grade": "bronze",
-   "guide": "Make choices (PSN tracks a count to 500)."
+   "hidden": true,
+   "kind": "side",
+   "missable": false,
+   "guide": "Choices made, for better or worse: do 500 things that change your criminal profile. It comes naturally across a full playthrough — robberies, crimes and choices all feed the count. Turn on criminal profile notifications in the UI settings to watch it climb.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 49,
    "name": "Bad Luck, I Guess",
    "description": "Second time's the charm.",
    "grade": "bronze",
-   "guide": "Succeed on a second try."
+   "hidden": true,
+   "kind": "side",
+   "missable": false,
+   "guide": "Second time's the charm. The trigger is not yet confirmed — the guide writers suspect a link to a Payday Loans store. Try failing something once and succeeding on the second attempt; if the Payday Loans lead is right, a second-try success there should pop it. (Unconfirmed — suspected trigger only.)",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 50,
    "name": "The Truth Is Out There",
    "description": "What the hell just happened?",
    "grade": "bronze",
-   "guide": "Witness something strange."
+   "hidden": true,
+   "kind": "side",
+   "missable": false,
+   "guide": "What the hell just happened? The trigger is not yet confirmed — the guide writers suspect a UFO questline. Keep an eye out for strange lights and odd encounters while exploring, especially at night and in remote spots. (Unconfirmed — suspected trigger only.)",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 51,
    "name": "Ten Pin",
    "description": "Bowl 'em over with a melee drive-by.",
    "grade": "bronze",
-   "guide": "Knock someone down with a melee drive-by."
+   "hidden": true,
+   "kind": "activity",
+   "missable": false,
+   "guide": "Bowl 'em over with a melee drive-by. The in-game hint points to a melee attack from a moving vehicle, and the guide writers suspect a kick from a motorcycle. Ride past a target and land the melee hit without stopping.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 52,
    "name": "Dime on the Dollar",
    "description": "Earn $250,000 laundering Marked Bills through your contacts.",
    "grade": "bronze",
-   "guide": "Launder $250,000 of marked bills."
+   "hidden": false,
+   "kind": "crime",
+   "missable": false,
+   "guide": "Earn $250,000 laundering Marked Bills through your contacts. Marked bills come from robberies; fence them through your contacts and the total adds up across jobs. The dye pack jammer — needed to handle marked bills safely — unlocks in a Chapter 3 main mission, so this starts paying after that.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 53,
    "name": "Treat Yo Self",
    "description": "Spend $100,000 across all shops.",
    "grade": "bronze",
-   "guide": "Spend $100,000 in shops."
+   "hidden": false,
+   "kind": "activity",
+   "missable": false,
+   "guide": "Spend $100,000 across all shops. Guns, car mods and tattoos get you there fastest — buy what you actually want first, then top up with mods. The total counts across every shop in the game, so it climbs through normal play.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 54,
    "name": "Little Boxes",
    "description": "Purchase all garage properties.",
    "grade": "bronze",
-   "guide": "Buy all 8 garage properties."
+   "hidden": false,
+   "kind": "collectible",
+   "missable": false,
+   "guide": "Purchase all 8 garage properties. The real estate app arrives in Chapter 2, and the total cost is about $160,000. Buy them as you can afford them — each one also gives you somewhere to store the vehicles you register for On the Spot.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   },
   {
    "id": 55,
    "name": "On the Spot",
    "description": "Register 10 vehicles to the Scooter Bros app.",
    "grade": "bronze",
-   "guide": "Register 10 vehicles in the Scooter Bros app."
+   "hidden": false,
+   "kind": "collectible",
+   "missable": false,
+   "guide": "Register 10 vehicles to the Scooter Bros app. You need garage space first, so pair this with Little Boxes: store a vehicle in a garage you own, then register it in the app. Ten registrations and it pops.",
+   "sources": [
+    {"name": "Six Shore — GTA 6 Trophy and Achievement List", "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"},
+    {"name": "Of Zen and Computing — GTA 6 Trophy List", "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"}
+   ]
   }
  ]
 }

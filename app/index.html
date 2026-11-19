@@ -3,23 +3,108 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GTA VI trophy checklist</title>
+<title>Leonida Legend — GTA VI Trophy Guide &amp; Tracker</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
-  <h1>GTA VI trophy checklist</h1>
-  <p id="progress">0 of 55 earned</p>
+<a class="skip" href="#view-guide">Skip to the trophy list</a>
+<div class="strip" aria-hidden="true"></div>
+<header class="hero">
+  <p class="eyebrow">Grand Theft Auto VI · PlayStation 5 · Unofficial fan guide</p>
+  <h1>Leonida Legend</h1>
+  <p class="lede">Every one of the 55 trophies, with a guide in plain words and a named source beside each one. Tick them off as you earn them — your progress stays in this browser.</p>
+  <div class="progress-wrap">
+    <div class="progress-bar" role="progressbar" aria-label="Trophies earned" aria-valuemin="0" aria-valuemax="55" aria-valuenow="0" id="progress-bar"><span id="progress-fill"></span></div>
+    <p class="progress-text" id="progress">0 of 55 earned · 0%</p>
+  </div>
+  <p class="totals">55 trophies · 1 platinum · 2 gold · 6 silver · 46 bronze · 28 hidden · 1 possibly missable · no online trophies · 1 playthrough · about 200 hours to platinum</p>
 </header>
-<div class="controls">
-  <label>Grade <select id="grade"><option value="all">All</option><option value="platinum">Platinum</option><option value="gold">Gold</option><option value="silver">Silver</option><option value="bronze">Bronze</option></select></label>
-  <button id="export" type="button">Export progress</button>
-  <label class="import">Import progress <input id="import" type="file" accept="application/json"></label>
-</div>
-<table>
-  <thead><tr><th>Earned</th><th>Trophy</th><th>Grade</th><th>How to get it</th></tr></thead>
-  <tbody id="rows"></tbody>
-</table>
+
+<nav class="tabs" aria-label="Views">
+  <button type="button" id="tab-guide" class="tab active" aria-current="page">Guide &amp; tracker</button>
+  <button type="button" id="tab-roadmap" class="tab">Roadmap to platinum</button>
+  <button type="button" id="tab-sources" class="tab">Sources</button>
+</nav>
+
+<main>
+<section id="view-guide" aria-label="Trophy guide and tracker">
+  <div class="toolbar">
+    <label class="field search">Search <input id="search" type="search" placeholder="Trophy, mission or keyword…" autocomplete="off"></label>
+    <label class="field">Grade
+      <select id="grade">
+        <option value="all">All grades</option>
+        <option value="platinum">Platinum (1)</option>
+        <option value="gold">Gold (2)</option>
+        <option value="silver">Silver (6)</option>
+        <option value="bronze">Bronze (46)</option>
+      </select>
+    </label>
+    <label class="field">Kind
+      <select id="kind">
+        <option value="all">All kinds</option>
+        <option value="story">Story</option>
+        <option value="activity">Activities</option>
+        <option value="crime">Crime &amp; robberies</option>
+        <option value="collectible">Collectibles</option>
+        <option value="exploration">Exploration</option>
+        <option value="side">Side strands</option>
+      </select>
+    </label>
+    <label class="check"><input id="missable-only" type="checkbox"> Missable only</label>
+    <label class="check"><input id="earned-only" type="checkbox"> Earned only</label>
+    <label class="check spoiler"><input id="spoiler" type="checkbox" checked> Hide story trophies (spoilers)</label>
+    <button id="export" type="button">Export progress</button>
+    <label class="import">Import progress <input id="import" type="file" accept="application/json,.json"></label>
+    <button id="reset" type="button">Reset</button>
+  </div>
+  <p class="status" id="status">Showing 55 of 55 trophies.</p>
+  <div id="trophy-list" class="trophy-list"></div>
+  <p class="empty" id="empty" hidden>No trophies match these filters. Clear the search or widen a filter.</p>
+</section>
+
+<section id="view-roadmap" aria-label="Roadmap to the platinum" hidden>
+  <h2>Roadmap to the platinum</h2>
+  <p class="roadmap-intro">One playthrough, no difficulty setting, no online trophies. The story takes about 60 to 80 hours; the whole platinum takes around 200 hours, most of it in the 100% cleanup. Cheats disable trophies, so keep them off your platinum save. Missions cannot be replayed, and there are no mission medals — but free roam continues after the story, and nothing on the list is missable except, possibly, one meditation in Chapter 1.</p>
+
+  <ol class="steps">
+    <li>
+      <h3>Step 1 — Story and optional missions <span class="step-time">about 60–80 hours</span></h3>
+      <p>Play the campaign at your own pace. Along the way: do the Chapter 1 meditation at Jason's house the morning Lucia walks out to the balcony (the one possible missable); take optional missions as they appear — the 100% checklist needs any 100 of them, out of several hundred; scan every new vehicle with the WAiNK app (100% needs 200 of 277 base models); study new animals through the binoculars (100% needs 100 of 255); turn on progress and criminal profile notifications in the UI settings so you can see what counts.</p>
+      <p class="step-yield">Yields: all 12 story trophies, the 5 side-character final missions as they open, and most of the one-off stunts.</p>
+    </li>
+    <li>
+      <h3>Step 2 — The 100% checklist <span class="step-time">about 100 hours</span></h3>
+      <p>The checklist appears after the story under Progress, then Stats, then 100% Completion. Progress made during the story already counts. It is lenient — roughly 60% true completion: 70 of 80 challenges, 15 of 18 meditation spots and 300 stunts, while robberies, underwater discoveries, shooting ranges, drone races and Bret's quests need everything. This step is where A Long Road, the gold 100% trophy, pops — and the platinum follows right after.</p>
+      <p class="step-yield">Yields: A Long Road (gold) and nearly every activity, collectible and robbery trophy.</p>
+    </li>
+    <li>
+      <h3>Step 3 — Strangers &amp; Freaks and cleanup <span class="step-time">about 10 hours</span></h3>
+      <p>Finish the 8 stranger mission strands — they are not part of the 100% checklist, so they may still be open. Then sweep whatever is left on the list: the last card sets, the last bank vaults, the last races. The platinum, Vice Got a Price!, pops the moment the final trophy does.</p>
+      <p class="step-yield">Yields: Strangers &amp; Freaks (silver) and the platinum.</p>
+    </li>
+  </ol>
+
+  <h3>Missable trophies</h3>
+  <p><strong>Only one trophy may be missable: Positive Mental Attitude.</strong> During Chapter 1, one morning at Jason's house, Lucia says she is going to meditate and walks out to the balcony. Follow her and accept the optional quest. That meditation may count toward the total even though it is not marked as a spot, and it is gone after Chapter 1. The other 18 meditation spots are marked and can be visited any time. No other trophy is known to be missable: story trophies unlock automatically, quest givers who leave during the story all return, and the 100% checklist is fully available after the story.</p>
+
+  <h3>Save advice</h3>
+  <p>The game has 15 manual save slots and 1 autosave. Because missions cannot be replayed, keep a save at the start and end of each chapter, then rotate the rest during free roam.</p>
+
+  <h3>What counts toward 100%</h3>
+  <p>Story missions, robberies, gang operations, collectibles, races, stunts, challenges and discoveries. The exact per-category counts are on the 100% checklist in the game; this guide's trophy pages carry the counts the guide writers have confirmed.</p>
+</section>
+
+<section id="view-sources" aria-label="Sources" hidden>
+  <h2>Sources</h2>
+  <p>Every guide in this list names its sources beside it. The official trophy names, descriptions and grades come from the PS5 list as published at launch and tracked on PSNProfiles and Exophase, reported by Push Square on 18 November 2026. Counts and methods (42 shooting range challenges, 14 drone race locations, 18 meditation spots, 9 gangs, 8 garages, and the rest) come from the guide pages below, which draw on PSNProfiles, TrueTrophies, TrueAchievements and the PowerPyx trophy guide. Where those guides have not confirmed a method yet, the trophy's own guide says so in plain words.</p>
+  <ul id="source-list" class="source-list"></ul>
+  <p class="source-note">This is an unofficial fan guide. It is not affiliated with Rockstar Games, Sony or PlayStation, and it uses no Rockstar logo, artwork or game screenshots. Trophy names and descriptions are shown as published on the official list.</p>
+</section>
+</main>
+
+<footer>
+  <p>Leonida Legend — an unofficial GTA VI trophy guide &amp; tracker. Works fully offline: every file it loads lives in this folder, and your progress never leaves your browser.</p>
+</footer>
 <script type="module" src="app.js"></script>
 </body>
 </html>
